@@ -10,7 +10,7 @@ In the study, I performed two analyses on the dataset.
 First is Theater Outcomes By Launch Date.  In this analysis, I grouped plays based on different launch date by month.  For each month, I collected campaign outcomes.  The result is present in figure 1.
  
 Second analysis is Outcomes Based on Goals. In this analysis, analyze the successful, fail and cancel by goal amount.  Plot each percentage rate based on different goal amount.   
-Link to the Excel sheet is here.
+Link to the Excel sheet is [here](https://github.com/violetqq0221/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx).
 ## Challenge
 The most challenging part of the assignment for me is find meaning patterns in the data.  Because the dataset has mean different features, it can be not very straight forward to see patterns in the data.  Therefore, by using the data analysis techniques in the previous sections of the assignment, I am then able to draw meaningful conclusion from the data.
 ## Results
