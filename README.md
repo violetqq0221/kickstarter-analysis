@@ -4,15 +4,16 @@
 
 ## Overview
 The purpose of this study is to perform data analysis on the dataset to find relationships between play launch data and campaign outcomes.   By doing detailed analysis on the different features such as goal, pledged, country, etc, we are able to find patterns in the data that shows a strong correlation between launch date and campaign success. 
-Analysis and Challenges
-Analysis
+## Analysis and Challenges
+#### Analysis
 In the study, I performed two analyses on the dataset.  
 First is Theater Outcomes By Launch Date.  In this analysis, I grouped plays based on different launch date by month.  For each month, I collected campaign outcomes.  The result is present in figure 1.
 ![Figure 1](https://github.com/violetqq0221/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
  
-Second analysis is Outcomes Based on Goals. In this analysis, analyze the successful, fail and cancel by goal amount.  Plot each percentage rate based on different goal amount.   
+Second analysis is Outcomes Based on Goals. In this analysis, analyze the successful, fail and cancel by goal amount.  Plot each percentage rate based on different goal amount. 
+![Figure 2](https://github.com/violetqq0221/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 Link to the Excel sheet is [here](https://github.com/violetqq0221/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx).
-## Challenge
+#### Challenge
 The most challenging part of the assignment for me is find meaning patterns in the data.  Because the dataset has mean different features, it can be not very straight forward to see patterns in the data.  Therefore, by using the data analysis techniques in the previous sections of the assignment, I am then able to draw meaningful conclusion from the data.
 ## Results
 I was able to obtain the following findings.
