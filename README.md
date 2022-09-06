@@ -8,6 +8,7 @@ Analysis and Challenges
 Analysis
 In the study, I performed two analyses on the dataset.  
 First is Theater Outcomes By Launch Date.  In this analysis, I grouped plays based on different launch date by month.  For each month, I collected campaign outcomes.  The result is present in figure 1.
+![Figure 1](https://github.com/violetqq0221/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
  
 Second analysis is Outcomes Based on Goals. In this analysis, analyze the successful, fail and cancel by goal amount.  Plot each percentage rate based on different goal amount.   
 Link to the Excel sheet is [here](https://github.com/violetqq0221/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx).
